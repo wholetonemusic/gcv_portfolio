@@ -14,4 +14,9 @@
 - skill: Redis
 - skill: Puma
 - skill: Nginx
+- skill: Docker
+- skill: Git
+- skill: RSpec
+- skill: CSS
+- skill: HTML
 - skill: Linux
