@@ -1,9 +1,14 @@
 # Jobs
 # VP of Global Communications
+- company: SES企業
+  position: QAエンジニア
+  duration: 2023年10月 &mdash; 現在
+  summary: <ul class="resume-item-list"><li>大手企業SI事業部で、広域Webサービスのシステム開発プロジェクトに参画し、アプリの品質管理を担当。超上流工程のQAチームにて受入テストケースの作成及び実施を行う。</li></ul>
+
 - company: ホールトーン・ミュージック
   position: ウェブサイト開発
   duration: 2006年8月 &mdash; 2009年7月 &mdash; 現在
-  summary: <ul class="resume-item-list"><li>オリジナル商品(雑貨)開発　自身の商品アイディアを外部プロダクトデザイナーにデザイン委託し、雑貨メーカーにて委託生産(〜2009年)</li><li>ネットショップ構築・運用　ECレンタルカートサービス上にショップ作成し、オリジナル雑貨を販売(〜2009年)</li><li>UGCサイト開発　Ruby on Rails で、設計、実装、テスト、インフラ構築、デプロイ、サービスローンチして、<b>現在まで監視、運用を継続中</b>　Railsのバージョンアップに伴い、いちからコーディングし直して、サイトのアップグレードを3度行う</li></ul>
+  summary: <ul class="resume-item-list"><li>UGCサイト開発　Ruby on Rails で、設計、実装、テスト、インフラ構築、デプロイ、サービスローンチして、<b>現在まで監視、運用を継続中</b>　Railsのバージョンアップに伴い、いちからコーディングし直して、サイトのアップグレードを3度行う</li><li>オリジナル商品(雑貨)開発　自身の商品アイディアを外部プロダクトデザイナーにデザイン委託し、雑貨メーカーにて委託生産(〜2009年)</li><li>ネットショップ構築・運用　ECレンタルカートサービス上にショップ作成し、オリジナル雑貨を販売(〜2009年)</li></ul>
 
 # Director of Digital Stratgy
 - company: 不動産・ビルメンテナンス関係企業
