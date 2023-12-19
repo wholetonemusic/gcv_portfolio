@@ -12,7 +12,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Yoshiki Satou"
-resume_name_jp:                 "佐藤 良樹 ポートフォリオ"
+resume_name_jp:                 "Yoshiki Satou Portfolio"
 resume_title:                   "Deep Dive Into Ruby on Rails"
 
 # used for the contact button in _layouts/resume.html
