@@ -48,7 +48,7 @@ resume_experience_summary: "<p>個人事業者として独立開業し、音楽�
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/wholetonemusic"
-  resume_twitter_url:           "https://twitter.com/wholetone"
+  # resume_twitter_url:           "https://twitter.com/wholetone"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/yoshiki-satou-72524a21b/"
